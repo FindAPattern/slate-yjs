@@ -1,5 +1,11 @@
 # @slate-yjs/core
 
+## 0.3.2
+
+### Patch Changes
+
+- [#373](https://github.com/BitPhinix/slate-yjs/pull/373) [`d3aa78a`](https://github.com/BitPhinix/slate-yjs/commit/d3aa78ac96f2e59d1d69f1bf5f7944679f9458d8) Thanks [@bokuweb](https://github.com/bokuweb)! - chore: remove unnecessary assertion
+
 ## 0.3.1
 
 ### Patch Changes
